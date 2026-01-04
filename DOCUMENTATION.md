@@ -118,7 +118,7 @@ This explains sentiment predictions for movie reviews.
 - Finance: Explain loan approvals/rejections
 - Legal: Provide transparent decision-making
 - Research: Understand model behavior
-- Education: Learn about model internability
+- Education: Learn about model interpretability
 
 ## Common Questions
 
